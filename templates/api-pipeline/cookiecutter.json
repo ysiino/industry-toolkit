@@ -8,6 +8,9 @@
     "project": {
         "name": "Python Boilerplate"
     },
+    "typescript": {
+        "namespace": "myproject"
+    },
     "pypi_username": "{{ cookiecutter.github_username }}",
     "version": "0.1.0",
     "use_pytest": "n",
