@@ -5,10 +5,10 @@
         "name": "{{ cookiecutter.project_name }}"
     },
     "app_name": "{{ cookiecutter.project_name }}",
+    "namespace": "myproject",
+    "version": "0.1.0",
     "typescript": {
         "namespace": "{{ cookiecutter.namespace }}",
         "version": "{{ cookiecutter.version }}"
-    },
-    "namespace": "myproject",
-    "version": "0.1.0"
-  }
+    }
+}
